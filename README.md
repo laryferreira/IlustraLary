@@ -3,6 +3,7 @@
 ![html](https://img.shields.io/badge/-HTML-red)
 ![css](https://img.shields.io/badge/-CSS-blue)
 ![js](https://img.shields.io/badge/-JS-yellowgreen)
+![fun](https://img.shields.io/badge/-just%20for%20fun!-blue) 
 
 ### Projeto pessoal com programação!
 ![](https://github.com/laryferreira/IlustraLary/blob/studies/ilustra.gif)
