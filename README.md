@@ -1,4 +1,4 @@
-# Ilustra Lary: Portifólio de Arte
+# Ilustra Lary: Portfólio de Arte
 ###### Desenvolvido por: Laryssa Ferreira | Última atualização: Março 2023
 ![html](https://img.shields.io/badge/-HTML-red)
 ![css](https://img.shields.io/badge/-CSS-blue)
