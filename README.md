@@ -5,3 +5,4 @@
 ![js](https://img.shields.io/badge/-JS-yellowgreen)
 
 ### Projeto pessoal com programação!
+![](https://github.com/laryferreira/IlustraLary/blob/studies/ilustra.gif)
